@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+.task{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black
+}
